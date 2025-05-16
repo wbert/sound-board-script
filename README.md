@@ -21,7 +21,7 @@ python -m venv .env
 ```
 #### Install dependenencies
 ```
-pip install -R requirements.txt
+pip install -r requirements.txt
 ```
 #### Run the script
 ```
